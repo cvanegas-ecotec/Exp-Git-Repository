@@ -1,8 +1,4 @@
 1. Cristopher Vanegas
-<<<<<<< HEAD
-2. Alondra Vanegas
-=======
 2. Alondra Vanegas
 3. Damián Vanegas
 4. Melva Santi
->>>>>>> names
